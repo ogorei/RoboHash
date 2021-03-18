@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  font-family: 'Press Start 2P', cursive;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 0;
+  font-size: 3rem;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+#tools{color:#99ffcc;
+  font-family:Arial, Helvetica, sans-serif;}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
